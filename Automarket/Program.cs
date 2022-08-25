@@ -1,7 +1,15 @@
+using Automarket.DAL.Context;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddTransient<ApplicationDbContext, ApplicationDbContext>();
+
+var connectionStrings = builder.Configuration.GetConnectionString("CarDbConnection");
+builder.Services.AddDbContext<ApplicationDbContext>(x => x.UseSqlServer(connectionStrings));
 
 var app = builder.Build();
 
