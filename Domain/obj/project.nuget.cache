@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8arclOz+TH9E2xJNWASS11jSI68irr82wsyqmD4AChbWYTBnRVJiMT2srRltg4Nb0C9N65ng55wIJBagFyHMpA==",
+  "dgSpecHash": "fjmYAye7gyTyJCrFOCshAHigy4jVelbK22IPOIGWJTdvnVfS0XSb3E8UBsbZcLsMBbiR/jbauR6dzH46PcEn8A==",
   "success": true,
-  "projectFilePath": "Z:\\asp_net_core\\Automarket\\Automarket.Domain\\Automarket.Domain.csproj",
+  "projectFilePath": "Z:\\asp_net_core\\Automarket\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

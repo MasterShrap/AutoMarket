@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\asp_net_core\\Automarket\\Automarket.Domain\\Automarket.Domain.csproj",
-      "projectName": "Automarket.Domain",
-      "projectPath": "Z:\\asp_net_core\\Automarket\\Automarket.Domain\\Automarket.Domain.csproj",
+      "projectUniqueName": "Z:\\asp_net_core\\Automarket\\Domain\\Domain.csproj",
+      "projectName": "Domain",
+      "projectPath": "Z:\\asp_net_core\\Automarket\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Ramazon\\.nuget\\packages\\",
-      "outputPath": "Z:\\asp_net_core\\Automarket\\Automarket.Domain\\obj\\",
+      "outputPath": "Z:\\asp_net_core\\Automarket\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ramazon\\AppData\\Roaming\\NuGet\\NuGet.Config",

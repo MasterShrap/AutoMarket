@@ -1,6 +1,5 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Automarket.Models;
 
 namespace Automarket.Controllers;
 
@@ -16,3 +15,4 @@ public class HomeController : Controller
         return View();
     }
 }
+ 

@@ -30,6 +30,9 @@
             "projectReferences": {
               "Z:\\asp_net_core\\Automarket\\DAL\\DAL.csproj": {
                 "projectPath": "Z:\\asp_net_core\\Automarket\\DAL\\DAL.csproj"
+              },
+              "Z:\\asp_net_core\\Automarket\\Domain\\Domain.csproj": {
+                "projectPath": "Z:\\asp_net_core\\Automarket\\Domain\\Domain.csproj"
               }
             }
           }

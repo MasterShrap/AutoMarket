@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XXOCMxwnLxivxQR4XOX9ROVHm0gzQqmmWi9ljx68F5lfo855vmc4agUiJ6/+q8fLZH1FwBGP4NtJzGDXCAEwoA==",
+  "dgSpecHash": "/5hwEFg8GnY2clp19IMRCyziyT0XQrBnN5kghOFxNExf78eXI/+YjSKum74ICnSzuf176GPTc+RHJ+MmGkfXNg==",
   "success": true,
-  "projectFilePath": "Z:\\asp_net_core\\Automarket\\Automarket.DAL\\Automarket.DAL.csproj",
+  "projectFilePath": "Z:\\asp_net_core\\Automarket\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ramazon\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
     "C:\\Users\\Ramazon\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.8\\microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",

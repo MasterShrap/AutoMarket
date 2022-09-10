@@ -1,0 +1,27 @@
+@model List<Automarket.Domain.Models.Car>
+
+@{
+    ViewData["Title"] = "Car Page";
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Mark</th>
+            <th>Model</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Mark</td>
+                <td>@item.Model</td>
+                <td>@item.Prise</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,15 @@
+Z:\asp_net_core\Automarket\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\asp_net_core\Automarket\DAL\bin\Debug\net6.0\DAL.dll
+Z:\asp_net_core\Automarket\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\asp_net_core\Automarket\DAL\bin\Debug\net6.0\Domain.dll
+Z:\asp_net_core\Automarket\DAL\bin\Debug\net6.0\Domain.pdb
+Z:\asp_net_core\Automarket\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\asp_net_core\Automarket\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\asp_net_core\Automarket\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\asp_net_core\Automarket\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\asp_net_core\Automarket\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\asp_net_core\Automarket\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+Z:\asp_net_core\Automarket\DAL\obj\Debug\net6.0\DAL.dll
+Z:\asp_net_core\Automarket\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\asp_net_core\Automarket\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\asp_net_core\Automarket\DAL\obj\Debug\net6.0\ref\DAL.dll

@@ -195,14 +195,14 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "Automarket.Domain/1.0.0": {
+      "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Automarket.Domain.dll": {}
+          "bin/placeholder/Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Automarket.Domain.dll": {}
+          "bin/placeholder/Domain.dll": {}
         }
       }
     }
@@ -531,15 +531,15 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Automarket.Domain/1.0.0": {
+    "Domain/1.0.0": {
       "type": "project",
-      "path": "../Automarket.Domain/Automarket.Domain.csproj",
-      "msbuildProject": "../Automarket.Domain/Automarket.Domain.csproj"
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Automarket.Domain >= 1.0.0",
+      "Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.8"
     ]
   },
@@ -549,11 +549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\asp_net_core\\Automarket\\Automarket.DAL\\Automarket.DAL.csproj",
-      "projectName": "Automarket.DAL",
-      "projectPath": "Z:\\asp_net_core\\Automarket\\Automarket.DAL\\Automarket.DAL.csproj",
+      "projectUniqueName": "Z:\\asp_net_core\\Automarket\\DAL\\DAL.csproj",
+      "projectName": "DAL",
+      "projectPath": "Z:\\asp_net_core\\Automarket\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Ramazon\\.nuget\\packages\\",
-      "outputPath": "Z:\\asp_net_core\\Automarket\\Automarket.DAL\\obj\\",
+      "outputPath": "Z:\\asp_net_core\\Automarket\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ramazon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -570,8 +570,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "Z:\\asp_net_core\\Automarket\\Automarket.Domain\\Automarket.Domain.csproj": {
-              "projectPath": "Z:\\asp_net_core\\Automarket\\Automarket.Domain\\Automarket.Domain.csproj"
+            "Z:\\asp_net_core\\Automarket\\Domain\\Domain.csproj": {
+              "projectPath": "Z:\\asp_net_core\\Automarket\\Domain\\Domain.csproj"
             }
           }
         }
